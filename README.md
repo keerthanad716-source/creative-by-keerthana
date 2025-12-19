@@ -1,6 +1,6 @@
-# 🎨 Creative by Keerthi
+# 🎨 Creative by Keerthana
 
-Welcome to **Creative by Keerthi** 👋  
+Welcome to **Creative by Keerthana** 👋  
 This is my personal creative website where I share my learning journey, creative interests, and experiments.
 
 ---
@@ -32,9 +32,7 @@ This is a beginner-friendly project built while learning HTML and GitHub Pages.
 
 ## 🌐 Live Website
 👉 **View my website here:**  
-https://USERNAME.github.io/creative-by-keerthi
-
-_(Replace `USERNAME` with your GitHub username)_
+https://keerthanad716-source.github.io/creative-by-keerthana
 
 ---
 
@@ -46,9 +44,9 @@ _(Replace `USERNAME` with your GitHub username)_
 ---
 
 ## 📬 Contact
-- GitHub: https://github.com/USERNAME  
+- GitHub: https://github.com/keerthanad716-source  
 
 ---
 
 ⭐ This project is part of my learning journey.  
-Thank y
+Thank you for visiting!
